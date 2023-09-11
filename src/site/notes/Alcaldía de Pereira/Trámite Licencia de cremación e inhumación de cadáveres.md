@@ -1,0 +1,37 @@
+---
+{"dg-publish":true,"permalink":"/alcaldia-de-pereira/tramite-licencia-de-cremacion-e-inhumacion-de-cadaveres/"}
+---
+
+
+>Autorización para enterrar o depositar cadáveres, restos óseos y partes humanas en los cementerios.
+
+Ficha técnica:
+
+- [ ] ¿Requiere pago?  
+
+
+
+``` mermaid 
+classDiagram
+    UsuariosPermitdos --|> tnGiflesFunerarias
+  
+    class tnGiflesFunerarias{
+      +id (pk) int(11)
+      +nombre varchar(225)
+      +email varchar(225)  
+    }
+   
+```
+
+Lógica funcional:
+
+
+``` mermaid 
+sequenceDiagram
+
+    Ciudadano->>+Sistema: Iniciar sesión
+    Ciudadano->>+Sistema: “licencia para inhumación y cremación de cadáveres”
+    Sistema-->>-Ciudadano: No se muestra el formulario para radicar la solicitud.
+    Sistema-->>-Ciudadano: “Usted no cuenta con acceso permitido para realizar este trámite”
+
+```
