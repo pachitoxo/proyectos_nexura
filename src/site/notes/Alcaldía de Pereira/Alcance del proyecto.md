@@ -8,12 +8,12 @@ Estas fueron los siguientes desarrollos:
 | Trámite | Desarrollo Personalización | Consumo de horas |
 | --- | --- | --- |
 | MAKE MAKE | Integración inicio sesión | 40 |
-| MIPG | Grupo de requerimientos de personalizaciones de 6 trámites implementados </br> 1. Cremación - Inhumación | 56 |
+| [[Alcaldía de Pereira/🧑‍💻Trámite Licencia de cremación e inhumación de cadáveres\|🧑‍💻Trámite Licencia de cremación e inhumación de cadáveres]] | Grupo de requerimientos de personalizaciones de 6 trámites implementados </br> 1.  #LicenciaImhumación | 56 |
 | MIPG | Validar respuestas formulario de evaluación | 10 |
 | MIPG | Validar respuestas formulario de evaluación | 10 |
 | MIPG | Validar respuestas formulario de evaluación | 12 |
 | MIPG | Validar respuestas formulario de evaluación | 45 |
-| MIPG | Validar respuestas formulario de evaluación | 45 |
+| [[Alcaldía de Pereira/🌲Trámite Beneficio Predial\|🌲Trámite Beneficio Predial]] | Validar código catastral #BeneficioPredial  | 45 |
 | MIPG | Validar respuestas formulario de evaluación | 24 |
 | MIPG | Validar respuestas formulario de evaluación | 24 |
 | MIPG | Validar respuestas formulario de evaluación | 24 |
