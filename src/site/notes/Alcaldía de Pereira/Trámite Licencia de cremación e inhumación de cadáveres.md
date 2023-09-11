@@ -12,6 +12,8 @@ Ficha técnica:
 - [ ] ¿Requiere integración?
 - [x] ¿Requiere expedir certificado?
 - [x] Personalizaciones
+- [x] Activado en producción desde 6/08/2021
+- [x] Url de producción: https://www.pereira.gov.co/gfiles/20/tramitevirtual/
 
 
 
