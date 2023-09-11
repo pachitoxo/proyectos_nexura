@@ -8,6 +8,10 @@
 Ficha técnica:
 
 - [ ] ¿Requiere pago?  
+- [x] Frecuencia anual de 1560 solicitudes
+- [ ] ¿Requiere integración?
+- [x] ¿Requiere expedir certificado?
+- [x] Personalizaciones
 
 
 
