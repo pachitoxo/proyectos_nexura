@@ -9,5 +9,5 @@
 ```mermaid
 pie title transacciones anuales
     "Transacciones total anual" : 45326
-    "Transacciones concepto sanitario" : 312
+    "Certificación dignatarios" : 58
 ```
