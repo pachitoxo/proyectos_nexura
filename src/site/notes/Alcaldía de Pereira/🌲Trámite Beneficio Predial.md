@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"fecha producción":"6/08/2021","permalink":"/alcaldia-de-pereira/tramite-beneficio-predial/","dgPassFrontmatter":true}
+{"dg-publish":true,"fecha producción":"6/08/2021","Url:":"https://www.pereira.gov.co/gfiles/47/tramitevirtual/","permalink":"/alcaldia-de-pereira/tramite-beneficio-predial/","dgPassFrontmatter":true}
 ---
 
 >Descuento para el pago predial del siguiente año.
