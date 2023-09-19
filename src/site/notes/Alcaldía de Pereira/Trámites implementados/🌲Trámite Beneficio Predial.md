@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alcaldia-de-pereira/tramites-implementados/tramite-beneficio-predial/"}
+{"dg-publish":true,"permalink":"/alcaldia-de-pereira/tramites-implementados/tramite-beneficio-predial/","tags":["SecretaríaDesarrolloRural","SecretaríaDeHacienda"]}
 ---
 
 >Descuento para el pago predial del siguiente año.
@@ -19,7 +19,7 @@
 ```mermaid
 pie title transacciones anuales
     "Transacciones total anual" : 45326
-    "Transacciones concepto sanitario" : 312
+    "Transacciones concepto sanitario" : 400
 ```
 
 
