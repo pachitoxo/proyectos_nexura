@@ -15,6 +15,15 @@
 - [x] Url de producción: https://www.pereira.gov.co/gfiles/47/tramitevirtual/
 
 
+
+```mermaid
+pie title transacciones anuales
+    "Transacciones total anual" : 45326
+    "Transacciones concepto sanitario" : 312
+```
+
+
+
 ## Flujo de proceso:
 
 ![Pasted image 20230911155820.png](/img/user/Pasted%20image%2020230911155820.png)
@@ -22,47 +31,22 @@
 # Historia de Usuario #BeneficioPredial
 
 
-## Modelo Entidad Relación: 
+## Diagrama de clase: 
+
 
 ```mermaid 
 classDiagram
-    UsuariosPermitdos --|> tnGiflesFunerarias
-  
-    class tnGiflesFunerarias{
-      +id (pk) int(11)
-      +nombre varchar(225)
-      +email varchar(225)  
-    }
+        UsuariosPermitidos --|> tnGifilesFunerarias
+        
+        class tnGifilesFunerarias{
+            +id (pk) int(11)
+            +nombre varchar(225)
+            +email varchar(225)
+        }
 ```
 
 
-Ejemplo de diagrama:
-
-```mermaid
-flowchart LR
-Start --> Stop
-```
-
-
-Cronograma:
-
-```mermaid
-gantt
-    title A Gantt Diagram
-    dateFormat  YYYY-MM-DD
-    section Section
-    A task           :a1, 2014-01-01, 30d
-    Another task     :after a1  , 20d
-    section Another
-    Task in sec      :2014-01-12  , 12d
-    another task      : 24d
-```
-
-
-
-
-
-Personalización:
+*Personalización*, para el pre-procesamiento donde valida la correcta estructura y extensión del archivo CSV:
 
 ``` javascript
 
@@ -87,3 +71,26 @@ Personalización:
       print(f"Valor columna1: {columna1}, Valor columna2: {columna2}, Valor columna3: {columna3}")
 
 ``` 
+
+
+
+Control de versiones:
+
+
+```mermaid
+gitGraph
+    commit
+    commit
+    branch develop
+    checkout develop
+    commit
+    commit
+    checkout main
+    merge develop
+    commit
+    commit
+```
+
+
+
+
