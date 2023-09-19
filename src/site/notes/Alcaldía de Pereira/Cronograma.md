@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/alcaldia-de-pereira/cronograma/"}
+{"dg-publish":true,"permalink":"/alcaldia-de-pereira/cronograma/","dgPassFrontmatter":true}
 ---
 
