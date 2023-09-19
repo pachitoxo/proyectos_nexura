@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alcaldia-de-pereira/alcance-del-proyecto/"}
+{"dg-publish":true,"permalink":"/alcaldia-de-pereira/alcance-del-proyecto/","dgPassFrontmatter":true}
 ---
 
 
