@@ -47,8 +47,7 @@ classDiagram
 
 Personalización:
 
-``` 
-javascript
+``` javascript
 
 # Leer la primera línea (encabezados)
         encabezados = next(lector_csv)
