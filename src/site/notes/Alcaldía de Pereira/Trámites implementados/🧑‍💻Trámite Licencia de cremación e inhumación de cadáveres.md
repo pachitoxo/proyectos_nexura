@@ -21,19 +21,23 @@
 ```mermaid
 pie title transacciones anuales
     "Transacciones total anual" : 45326
-    "Transacciones concepto sanitario" : 312
+    "Transacciones concepto sanitario" : 1560
 ```
+
+# Flujo de proceso
+
+![Pasted image 20230919094711.png](/img/user/Pasted%20image%2020230919094711.png)
 
 
 
 # Historia de Usuario #LicenciaImhumación
 
 
-## Modelo Entidad Relación: 
+## Diagrama de clase: 
 
 ``` mermaid 
 classDiagram
-    UsuariosPermitdos --|> tnGiflesFunerarias
+    UsuariosPermitidos --|> tnGiflesFunerarias
   
     class tnGiflesFunerarias{
       +id (pk) int(11)
