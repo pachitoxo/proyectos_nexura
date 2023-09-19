@@ -24,7 +24,7 @@
 
 ## Modelo Entidad Relación: 
 
-``` mermaid 
+```mermaid 
 classDiagram
     UsuariosPermitdos --|> tnGiflesFunerarias
   
@@ -33,7 +33,6 @@ classDiagram
       +nombre varchar(225)
       +email varchar(225)  
     }
-   
 ```
 
 Personalización:
