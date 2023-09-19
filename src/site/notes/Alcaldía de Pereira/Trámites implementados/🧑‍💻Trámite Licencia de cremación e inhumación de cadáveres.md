@@ -17,6 +17,15 @@
 
 
 
+
+```mermaid
+pie title transacciones anuales
+    "Transacciones total anual" : 45326
+    "Transacciones concepto sanitario" : 312
+```
+
+
+
 # Historia de Usuario #LicenciaImhumación
 
 
