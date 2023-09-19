@@ -35,6 +35,16 @@ classDiagram
     }
 ```
 
+
+
+
+```mermaid 
+	graph LR;
+		A -> B
+```
+
+
+
 Personalización:
 
 ``` 
