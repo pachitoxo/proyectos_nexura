@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alcaldia-de-pereira/tramites-y-servicios/"}
+{"dg-publish":true,"permalink":"/alcaldia-de-pereira/tramites-y-servicios/","dgPassFrontmatter":true}
 ---
 
 
